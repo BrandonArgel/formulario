@@ -4,8 +4,8 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
-	background: black;
-	color: white;
+	background: #0D1416;
+	color: #CCDDFF;
 }
 
 main {
@@ -34,8 +34,7 @@ main {
 
 .formulario__input {
 	width: 100%;
-	background: #fff;
-	border: 3px solid transparent;
+	border: 3px solid #00000033;
 	border-radius: 3px;
 	height: 45px;
 	line-height: 45px;
